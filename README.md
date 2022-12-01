@@ -10,7 +10,7 @@ Implementación en C++ para resolver  sistemas de ecuaciones de primer grado con
  
  ### ⭐️ Otros tutoriales que puedes leer:
  
- #### ⚡Programación , Electrnica e Impresión 3D:
+ #### ⚡Programación , Electrónica e Impresión 3D:
  [![](https://img.shields.io/badge/DitecnoMakers-DitecnoDigital-blue)](https://ditecnomakers.com/author/DitecnoDigital/)
    
   
@@ -18,7 +18,7 @@ El código Fuente se encuentra en este repositorio, archivo con extención cpp.
 Esta realizado bajo la plataforma linux. 
 
 ### Realizado por:
-            Juan José Läderach con fines educativos el 30 de noviembre del 2022
+            Juan José Läderach con fines educativos el 30 de noviembre del 2022.
 
 
 ## Puedes seguirme en:
