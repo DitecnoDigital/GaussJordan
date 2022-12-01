@@ -13,7 +13,7 @@ int main(){
     cout<< setprecision(3)<< fixed;
 
 	cout<<"----------------------------------------------------"<<endl;
-    cout<<"---------Resolucion de Sitemas de Ecuaciones--------"<<endl;
+    cout<<"---------Resolucion de Sistemas de Ecuaciones--------"<<endl;
     cout<<"----------------------------------------------------"<<endl;
     cout<<"Ingrese la cantidad de Incognitas: ";
 	cin>>n;
