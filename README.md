@@ -10,7 +10,7 @@ Implementación en C++ para resolver  sistemas de ecuaciones de primer grado con
  
  ### ⭐️ Otros tutoriales que puedes leer:
  
- ####  Programaci
+ ####  Programación , Electronica e Impresión 3D:
  [![](https://img.shields.io/badge/DitecnoMakers-DitecnoDigital-blue)](https://ditecnomakers.com/author/DitecnoDigital/)
    
   
