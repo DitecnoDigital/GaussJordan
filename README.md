@@ -5,12 +5,12 @@ Implementación en C++ para resolver  sistemas de ecuaciones de primer grado con
 
 ### ⭐️Ditecnomakers:
 
-####  Juego del Ahorcado
- [![](https://img.shields.io/badge/DitecnoMakers-GaussJordan-red)](https://ditecnomakers.com/metodo-gauss-jordan-para-resolver-sistemas-de-ecuaciones-de-primer-grado-con-una-o-mas-incognitas/)
+####  Gauss-Jordan
+ [![](https://img.shields.io/badge/DitecnoMakers-GaussJordan-blue)](https://ditecnomakers.com/metodo-gauss-jordan-para-resolver-sistemas-de-ecuaciones-de-primer-grado-con-una-o-mas-incognitas/)
  
  ### ⭐️ Otros tutoriales que puedes leer:
  
- ####  Quiz, Juego de Preguntas
+ ####  Programaci
  [![](https://img.shields.io/badge/DitecnoMakers-DitecnoDigital-blue)](https://ditecnomakers.com/author/DitecnoDigital/)
    
   
