@@ -15,7 +15,7 @@ Implementación en C++ para resolver  sistemas de ecuaciones de primer grado con
    
   
 El código Fuente se encuentra en este repositorio, archivo con extención cpp.
-Esta realizado bajo la plataforma linux. 
+
 
 ### Realizado por:
             Juan José Läderach con fines educativos el 30 de noviembre del 2022.
