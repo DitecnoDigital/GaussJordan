@@ -5,12 +5,12 @@ Implementación en C++ para resolver  sistemas de ecuaciones de primer grado con
 
 ### ⭐️Ditecnomakers:
 
-####  Gauss-Jordan
+#### ⚡Gauss-Jordan
  [![](https://img.shields.io/badge/DitecnoMakers-GaussJordan-blue)](https://ditecnomakers.com/metodo-gauss-jordan-para-resolver-sistemas-de-ecuaciones-de-primer-grado-con-una-o-mas-incognitas/)
  
  ### ⭐️ Otros tutoriales que puedes leer:
  
- ####  Programación , Electronica e Impresión 3D:
+ #### ⚡Programación , Electrnica e Impresión 3D:
  [![](https://img.shields.io/badge/DitecnoMakers-DitecnoDigital-blue)](https://ditecnomakers.com/author/DitecnoDigital/)
    
   
